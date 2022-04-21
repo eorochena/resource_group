@@ -1,2 +1,2 @@
-resource_group = "exercise10"
+name = "your-name"
 location = "eastus"
